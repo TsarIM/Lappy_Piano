@@ -18,4 +18,22 @@ Web app that allows you to play piano using your laptop keyboard. Try it out!! h
 <p>key M -> note G4</p>
 <p>key , -> note A4</p>
 <p>key . -> note B4</p>
+<p>key W -> note Db3</p>
+<p>key E -> note Eb3</p>
+<p>key T -> note Gb3</p>
+<p>key Y -> note Ab3</p>
+<p>key U -> note Bb3</p>
+<p>key I -> note Db4</p>
+<p>key o -> note Eb4</p>
+<p>key P -> note Gb4</p>
+<p>key [ -> note Ab4</p>
+<p>key ] -> note Bb4</p>
+<p>the buttons on the panels are to play heavier notes when needed</p>
+<br>
+
+<p>Note: this app was meant to be used on a laptop/pc to mimic the experience of actually playing a piano .It is not responsive currently, as it was not made to be used on smaller screens</p>
+
+
+
+
 
