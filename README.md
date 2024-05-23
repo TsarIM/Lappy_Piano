@@ -32,7 +32,7 @@ Web app that allows you to play piano using your laptop keyboard. Try it out!! h
 <br>
 <p>mp3 files of piano notes were provided by <a href="https://github.com/fuhton">fuhton</a> on github </p>
 
-<p>Note: this app was meant to be used on a laptop/pc to mimic the experience of actually playing a piano .It is not responsive currently, as it was not made to be used on smaller screens</p>
+<p>Note: this app was meant to be used on a laptop/pc to mimic the experience of actually playing a piano .It is not responsive currently, as it was not built to be used on smaller devices that don't have a keyboard</p>
 
 
 
